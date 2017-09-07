@@ -1,6 +1,7 @@
 # JavaScript设计模式系列
 
 > JavaScript设计模式系列,讲述大概20-30种设计模式在JavaScript中的运用
+
 > 后面对应的篇幅会陆续更新,欢迎大家提出建议
 
 1.[JavaScript设计模式系列之工厂模式](demo1)
