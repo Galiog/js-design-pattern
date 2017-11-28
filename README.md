@@ -41,7 +41,7 @@
 
 * 3.[JavaScript设计模式系列之单例模式](demo3)
 
-## 创建型设计模式
+## 结构型设计模式
 * 1.[JavaScript设计模式系列之外观模式](demo4)
 * 2.[JavaScript设计模式系列之适配器模式](demo5)
 
